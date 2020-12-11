@@ -18,7 +18,7 @@ DOC_HTML_FORMAT = "http://curia.europa.eu/juris/document/document_print.jsf?doci
 DOC_PDF_FORMAT = "http://curia.europa.eu/juris/showPdf.jsf?docid={}&doclang={}"
 RESULTS_FORMAT ="http://curia.europa.eu/juris/documents.jsf?page={}&cid={}"
 
-# Main search URL: Judgements for Court of Justice and Grand Chamber, closed cases.
+# Main search URL: Judgements for Court of Justice and General Court, closed cases.
 SEARCH_URL = "http://curia.europa.eu/juris/documents.jsf?mat=or&lgrec=en&jur=C%2CT&etat=clot&pcs=Oor&nat=or&td=%3B%3B%3BPUB1%3BNPUB1%3B%3B%3BORDALL"
 
 
